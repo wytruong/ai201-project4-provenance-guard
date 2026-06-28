@@ -1,0 +1,134 @@
+[
+  {
+    "content_id": "d2ecdf8d-c637-4760-800d-178ebd72283f",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-28T06:22:43.987440+00:00",
+    "attribution": "uncertain",
+    "confidence": 0.62,
+    "llm_score": 0.7,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "9150b934-f1da-4ef6-bc47-78de78e59f91",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-28T06:23:59.997735+00:00",
+    "attribution": "uncertain",
+    "confidence": 0.62,
+    "llm_score": 0.7,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "23e5ca49-bb85-44ab-944a-6fb404f61b87",
+    "creator_id": "test-user-1",
+    "timestamp": "2026-06-28T06:26:49.462373+00:00",
+    "attribution": "uncertain",
+    "confidence": 0.62,
+    "llm_score": 0.7,
+    "stylo_score": 0.5,
+    "status": "under_review",
+    "appeal_reasoning": "I wrote this myself.",
+    "appeal_timestamp": "2026-06-28T06:28:18.216165+00:00"
+  },
+  {
+    "content_id": "30b926c5-2dfe-46dc-9cf0-d9c153bcc95a",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:43.249964+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "5e0f1ba4-5fb8-4d6e-b4ca-852ea6eac54e",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:43.549111+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "8c3e06f8-ac79-4194-8c3d-ca702ba4bc31",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:43.850660+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "72f3f0eb-02d6-43f6-b651-81d85322b0af",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:44.139254+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "3e0725e6-d8c7-4710-8398-a0087fd1de51",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:44.424747+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "e4a4fb0c-c9d4-4af7-9ca2-ad1af1d0e1fc",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:44.711186+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "314d6e15-e602-47b0-9d40-0aa30b1e0130",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:45.009103+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "92c65e8a-38b2-4333-8220-cf3a4e7ab8bd",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:45.394577+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "8dee8a56-5734-442e-8194-0f92a3c8231f",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:45.690742+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  },
+  {
+    "content_id": "5def5322-0304-44f1-ab67-6776b38bb681",
+    "creator_id": "ratelimit-test",
+    "timestamp": "2026-06-28T06:29:45.980565+00:00",
+    "attribution": "likely_ai",
+    "confidence": 0.77,
+    "llm_score": 0.95,
+    "stylo_score": 0.5,
+    "status": "classified"
+  }
+]
